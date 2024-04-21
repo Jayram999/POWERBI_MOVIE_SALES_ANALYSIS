@@ -1,4 +1,4 @@
-# POWERBI_MOVIE_SALES_ANALYSIS
+![Performance Page](https://github.com/Jayram999/POWERBI_MOVIE_SALES_ANALYSIS/assets/34366228/07d88638-d81d-4226-a630-ac611cc9d1ff)# POWERBI_MOVIE_SALES_ANALYSIS
 
 
 Description:
@@ -23,6 +23,7 @@ Through the Movie Sales Analysis project, users can interactively explore the da
 ![Overiew Page ](https://github.com/Jayram999/POWERBI_MOVIE_SALES_ANALYSIS/assets/34366228/4aae1f80-6b77-484c-a09e-519159494145)
 
 
-![Performance Page](https://github.com/Jayram999/POWERBI_MOVIE_SALES_ANALYSIS/assets/34366228/2a6652d9-e830-4a00-986d-078d862b0dfa)
+![Performance Page](https://github.com/Jayram999/POWERBI_MOVIE_SALES_ANALYSIS/assets/34366228/76af7fdc-1a82-4d3f-ab14-f587e733a9c5)
+
 
 
